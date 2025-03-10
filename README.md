@@ -1,2 +1,1 @@
-# Dibujar _Seno_Coseno_Misma_Grafica_Python
- Dibujar seno y coseno en la misma gráfica con Python
+Cómo mostrar el seno y el coseno en la misma gráfica con diferentes colores con Python. Mostramos una leyenda fuera de la gráfica indicando el color de cada elemento (seno y coseno). Más información en: https://proyectoa.com/dibujar-seno-y-coseno-en-la-misma-grafica-con-python/
